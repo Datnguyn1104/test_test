@@ -1,6 +1,6 @@
-# AI_BTL
+# test_test
 
-AI_BTL là một dự án tập trung vào việc phát triển và triển khai các mô hình học máy để phân tích dữ liệu cảm biến.
+test_test is my test project
 
 ## Nội dung
 
@@ -13,22 +13,16 @@ AI_BTL là một dự án tập trung vào việc phát triển và triển khai
 
 ## Giới thiệu
 
-Dự án này nhằm xây dựng các mô hình học máy để phân tích dữ liệu từ các cảm biến. Nó bao gồm các tệp mã nguồn và dữ liệu cần thiết để huấn luyện và đánh giá mô hình.
+This is my test project!
 
 ## Cấu trúc dự án
 
-- `Model_C++.cpp`: Mã nguồn C++ cho mô hình.
-- `check_data.ipynb`: Notebook Jupyter để kiểm tra và khám phá dữ liệu cảm biến.
-- `model_0.bst`, `model_1.bst`, `model_2.bst`: Các tệp mô hình đã được huấn luyện.
-- `model_0.json`, `model_1.json`, `model_2.json`: Cấu hình mô hình ở định dạng JSON.
-- `move_json_to_bst.py`: Script Python để chuyển đổi tệp JSON thành định dạng `.bst`.
-- `sensor_data.csv`: Dữ liệu cảm biến được sử dụng để huấn luyện và đánh giá mô hình.
-- `train.py`: Script Python để huấn luyện mô hình.
+- `test.cpp`: Source code.
 
 ## Hướng dẫn cài đặt
 
 1. **Clone kho lưu trữ:**
 
    ```bash
-   git clone https://github.com/hoangbpm/AI_BTL.git
-   cd AI_BTL
+   git clone https://github.com/Datnguyn1104/test_test.git
+   cd test_test
